@@ -1,0 +1,47 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Đảo Hoang",
+      "address": "NĐ",
+      "point": 9,
+      "dob": "2000-01-21"
+    },
+    {
+      "id": 2,
+      "name": "Thanh Long999999",
+      "address": "Hà Nội",
+      "point": 6,
+      "dob": "1999-05-15"
+    },
+    {
+      "id": 3,
+      "name": "Đảo Hoang",
+      "address": "NĐ",
+      "point": 10,
+      "dob": "2001-08-22"
+    },
+    {
+      "id": 4,
+      "name": "Thanh Ngọc",
+      "address": "Hà Nội",
+      "point": 7,
+      "dob": "2002-11-30"
+    },
+    {
+      "name": "Đảo Hoang",
+      "address": "NĐ",
+      "point": 7,
+      "dob": "2024-08-14",
+      "id": 5
+    },
+    {
+      "name": "Thanh Ngọc99999",
+      "address": "Hà Nội",
+      "point": 9,
+      "dob": "2024-08-01",
+      "id": 6
+    }
+  ],
+  "classroom": []
+}
